@@ -26,3 +26,6 @@ PHP 自作
 メールアドレス：testuser@test.jp
 
 パスワード：test2022
+
+#環境
+XAMPP/MySQL/PHP
