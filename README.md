@@ -30,7 +30,7 @@ PHP 自作
 
 # 環境
 
-XAMPP/MySQL/PHP
+XAMPP/MySQL/Laravel
 
 # データベース
 
